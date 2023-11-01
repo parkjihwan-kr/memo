@@ -26,4 +26,6 @@ public class Memo {
         this.username = username;
         this.contents = contents;
     }
+
+    //test
 }
